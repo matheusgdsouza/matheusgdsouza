@@ -52,8 +52,8 @@ Organização de código e separação de estilos
 Boas práticas de CSS (Flexbox e organização visual)
 
 Este projeto reforça minha base em desenvolvimento front-end, especialmente na criação de interfaces responsivas e bem estruturadas.
-🔗 [Ver Repositório]((https://github.com/matheusgdsouza/projeto-html-mobile-first-alura-books))
-🌐 [Ver Projeto Online]((https://projeto-html-mobile-first-alura-boo.vercel.app))
+🔗 [Ver Repositório](https://github.com/matheusgdsouza/projeto-html-mobile-first-alura-books)
+🌐 [Ver Projeto Online](https://projeto-html-mobile-first-alura-boo.vercel.app)
 
 ---
 
@@ -69,8 +69,8 @@ Aplicação de boas práticas de responsividade
 Organização e padronização de código
 
 Este projeto reforça minha capacidade de transformar layouts em interfaces funcionais, mantendo organização, clareza e responsividade.
-🔗 [Ver Repositório]((https://github.com/matheusgdsouza/7DaysCode-HtmlCss-OptimusTech))
-🌐 [Ver Projeto Online]((https://7-days-code-html-css-optimus-tech.vercel.app/))
+🔗 [Ver Repositório](https://github.com/matheusgdsouza/7DaysCode-HtmlCss-OptimusTech)
+🌐 [Ver Projeto Online](https://7-days-code-html-css-optimus-tech.vercel.app/)
 
 ---
 
