@@ -40,30 +40,50 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Fron
 
 ## 📂 Projetos em Destaque
 
-# 🔹 Focus - Temporizador de Foco
+# 📌 Fokus - Pomodoro App
 
-Projeto desenvolvido durante a formação de JavaScript da Alura, focado na criação de um cronômetro para gerenciamento de tempo (técnica Pomodoro) com interface dinâmica e interativa.
+Aplicação web de produtividade baseada na técnica **Pomodoro**, desenvolvida para auxiliar no gerenciamento de tempo e tarefas de forma simples e eficiente.
 
-## 🚀 Habilidades aplicadas
+---
 
-* **Manipulação de DOM:** Alteração dinâmica de classes, textos e imagens de acordo com o contexto (Foco, Descanso Curto/Longo).
-* **Controle de Fluxo e Timers:** Implementação de lógica de contagem regressiva utilizando funções nativas do JavaScript (`setInterval`, `clearInterval`).
-* **Interatividade com Áudio:** Integração de feedback sonoro para ações do usuário e alertas de finalização de ciclos.
-* **Gerenciamento de Estados Visuais:** Alternância de temas e estados via JavaScript para melhorar a experiência do usuário (UX).
-* **Boas práticas de código:** Organização de funções e tratamento de eventos para garantir um código limpo e escalável.
+## 🚀 Funcionalidades
 
-Este projeto demonstra minha capacidade de aplicar lógica de programação para resolver problemas reais e criar ferramentas que exigem interação constante entre o usuário e o sistema.
+* ⏱️ Temporizador (foco, descanso curto e longo)
+* ▶️ Iniciar, pausar e resetar contagem
+* 📝 Gerenciamento de tarefas
+* 💾 Persistência com LocalStorage
+* 🎨 Interface dinâmica e interativa
 
-## 🔗 Links Úteis
+---
 
-* [Página do Projeto (Live)](https://projeto-java-script-focus.vercel.app/)
-* [Meu Portfólio no GitHub](https://github.com/matheusgdsouza)
+## 🛠️ Tecnologias
 
-## 🛠️ Tecnologias Utilizadas
+* HTML5
+* CSS3
+* JavaScript (ES6+)
 
-* **HTML5** para estruturação semântica.
-* **CSS3** para estilização e transições.
-* **JavaScript (ES6+)** para toda a lógica de funcionamento e manipulação do DOM.
+---
+
+## 💡 Destaques técnicos
+
+* Manipulação de DOM
+* Eventos e interatividade
+* Lógica de temporização (`setInterval`)
+* Uso de LocalStorage
+* Organização de código e boas práticas
+
+---
+
+## 🌐 Acesse
+
+🔗 Deploy: *[](https://projeto-java-script-focus.vercel.app/)*
+🔗 Repositório: https://github.com/matheusgdsouza/projeto-JavaScript-Focus
+
+---
+
+## 🎯 Objetivo
+
+Projeto desenvolvido para consolidar conhecimentos em **JavaScript** e demonstrar habilidades práticas em desenvolvimento front-end.
 
 ---
 
