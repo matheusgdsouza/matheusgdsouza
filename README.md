@@ -76,7 +76,7 @@ Aplicação web de produtividade baseada na técnica **Pomodoro**, desenvolvida 
 
 ## 🌐 Acesse
 
-🔗 Deploy: *[](https://projeto-java-script-focus.vercel.app/)*
+🔗 Deploy: *[https://projeto-java-script-focus.vercel.app/](https://projeto-java-script-focus.vercel.app/)*
 🔗 Repositório: https://github.com/matheusgdsouza/projeto-JavaScript-Focus
 
 ---
