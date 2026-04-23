@@ -24,12 +24,13 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Fron
 ## 🚀 Tecnologias e Ferramentas
 
 ### 💻 Front-End
+- JavaScript (em evolução)
+- React
 - HTML5
 - CSS3
 - Sass
 - TailwindCSS
 - Bootstrap
-- JavaScript (em evolução)
 
 ### 🛠 Ferramentas
 - Git
@@ -39,6 +40,23 @@ Meu objetivo é conquistar minha primeira oportunidade como **Desenvolvedor Fron
 ---
 
 ## 📂 Projetos em Destaque
+
+### 🚀 TecBoard
+
+Aplicação web desenvolvida com **React** para simular uma plataforma de publicação de posts, com foco em componentização, gerenciamento de estado e boas práticas de front-end.
+
+🔗 **Repositório:**
+https://github.com/matheusgdsouza/projeto-React-Tecboard
+
+🌐 **Deploy:**
+👉 *[https://projeto-react-tecboard.vercel.app/](https://projeto-react-tecboard.vercel.app/)*
+
+**Tecnologias:** React.js, JavaScript (ES6+), HTML5, CSS3, Vite
+**Conceitos:** Componentização, Props, Hooks (useState, useEffect), Renderização dinâmica
+
+💡 Projeto desenvolvido para consolidar conhecimentos em React e construção de interfaces modernas e escaláveis.
+
+---
 
 # 📌 Fokus - Pomodoro App
 
